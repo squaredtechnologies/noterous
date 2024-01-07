@@ -8,7 +8,12 @@
 
 ---
 
-### Features
+### 👀 What is Noterous?
+
+Noterous is an AI-first interface for Python notebooks.
+
+
+### ✨ Features
 
 Noterous currently supports:
 - **Automatic notebook creation**: Generate starter code for your notebook in seconds
@@ -18,13 +23,15 @@ Noterous currently supports:
 
 with much more on the way.
 
-### Roadmap
+
+### 🚗 Roadmap
 
 Speaking of what's on the way, we want to tackle the following big-picture items:
 - **Sharing and collaboration**: Easily share and collaborate on projects
 - **Supporting additional cell types**: Support SQL cells for interacting with your databases
 
 Have more thoughts on what we should work on? Feel free to drop an issue using the following templates.
+
 
 ### Issue Templates
 
