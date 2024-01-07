@@ -33,7 +33,7 @@ Speaking of what's on the way, we want to tackle the following big-picture items
 Have more thoughts on what we should work on? Feel free to drop an issue using the following templates.
 
 
-### Issue Templates
+### 📝 Issue Templates
 
 #### ✨ Feature Request
 
