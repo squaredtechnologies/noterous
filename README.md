@@ -4,7 +4,7 @@
 
 <img width="1511" alt="give-feedback" src="https://github.com/squaredtechnologies/noterous/assets/26368245/ba92f587-1d3d-430b-9e68-d478073c36ea">
 
-<sub>Have a quick note for us and don't want to create an issue? Send it [here](https://www.tally.so/r/w8xako).</sub>
+<sub>Have a quick note for us and don't want to create an issue? Send it [here](https://tally.so/r/woGy7M).</sub>
 
 ---
 
